@@ -226,7 +226,7 @@ const BookDetail = ({ route, navigation }) => {
                         style={{
                             width: 25,
                             height: 25,
-                            tintColor: COLORS.lightGray2
+                            tintColor: COLORS.black
                         }}
                     />
                 </TouchableOpacity>
